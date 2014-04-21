@@ -36,7 +36,8 @@ Backbone.js, a multi-tabs page, node.js, mongoose, expressjs framework.
 
 8. make sure mongod daemon is running
 
-9. npm start
+9. npm start ( or: nohup npm stall >/dev/null 2>&1 &; )
 
 10. visit: localhost:4711/
 
+That's it!
