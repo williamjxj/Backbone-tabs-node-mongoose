@@ -1,0 +1,82 @@
+img.home{
+    width:722px;
+    height:154px;
+    background:url(i/characters-sprite.png)  0;
+}
+
+#navlist, #list {
+    position:relative;
+}
+#navlist li, #list li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+    height: 182px;
+    display: block;
+    width: 105px;
+    margin: 10px 20px;
+    border: 3px #fff solid;
+    border-bottom: 30px #fff solid;
+    border-radius: 5px;
+    position: relative;
+    left: 0;
+}
+#navlist li {
+    cursor: pointer;
+}
+#navlist li span {
+    position: absolute;
+    left:30%;
+    top:153px;
+}
+#navlist li.active {
+    background-color: #FFFF00;
+    opacity:1;
+    border:#CCCCCC thin solid;
+}
+#navlist li.inactive {
+    background-color: grey;
+    opacity:0.4;
+    border:#CCCCCC thin solid;
+}
+
+#navlist li h4 {
+    position: absolute;
+    bottom: -34px;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+#list {
+    min-height: 154px;
+}
+#list li, #list {
+    height:154px; display:block;
+}
+
+#stan{left:0px;width:100px;}
+#stan{background:url(i/characters-sprite.png) 0 0;}
+
+#kyle{left:100px;width:104px;}
+#kyle{background:url(i/characters-sprite.png) -207px 0;}
+
+#kenny{left:200px;width:104px;}
+#kenny{background:url(i/characters-sprite.png) -619px 0;}
+
+#cartman{left:300px;width:104px;}
+#cartman{background:url(i/characters-sprite.png) -310px 0;}
+
+#wendy{left:400px;width:104px;}
+#wendy{background:url(i/characters-sprite.png) -414px 0;}
+
+#ike{left:500px;width:104px;}
+#ike{background:url(i/characters-sprite.png) -517px 0;}
+
+#tweak{left:600px;width:104px;}
+#tweak{background:url(i/characters-sprite.png) -105px 0;}
+
+hr.hr {
+    margin-top: 170px;
+}

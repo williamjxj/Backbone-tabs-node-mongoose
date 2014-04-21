@@ -1,0 +1,64 @@
+<div class="row">
+    <h1>Who Killed Kenny?</h1>
+    <p>Here are the suspects. Your job is to sort them from who you think is the most likely to the least likely, by clicking on the suspect.</p>
+</div>
+<div class="row">
+    <ul id="navlist">
+        <li id="stan"><span>Stan</span></li>
+        <li id="kyle"><span>Kyle</span></li>
+        <li id="kenny"><span>Kenny</span></li>
+        <li id="cartman"><span>Cartman</span></li>
+        <li id="wendy"><span>Wendy</span></li>
+        <li id="ike"><span>Ike</span></li>
+        <li id="tweak"><span>Tweak</span></li>
+    </ul>
+    <hr class="hr" />
+</div>
+<div class="row">
+    <ul id="list">
+    </ul>
+</div>
+
+<div class="row" id="css-sprites">
+    <div style="float:right; padding-right: 20px">
+        <button class="btn" id="reset">Reset</button>
+        <button class="btn btn-primary">Save</button>
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+    $(function() {
+        $('ul#navlist').on('mouseover', 'li', function(ev) {
+            ev.preventDefault();
+            $('li', 'ul#navlist').removeClass('active').addClass('inactive');
+            $(this).removeClass('inactive').addClass('active');
+        })
+        .mouseout(function() {
+            $('li', 'ul#navlist').removeClass('active inactive');
+        });
+
+        $( '#navlist').on('click', 'li', function(e) {
+            e.preventDefault();
+            var id = $(this).closest('li').attr('id');
+
+            var t = $('<img/>').attr('src', 'css-sprites/i/'+ id+'.png').css({
+                width: '100px',
+                height: '150px',
+                border: 0
+            }).appendTo('ul#list').wrap('<li><span>'+id+'</span></li>');
+
+            $(this).closest('li').empty().remove();
+            return false;
+        });
+
+        $('#reset').click(function(e) {
+            e.preventDefault();
+            $('ul#list').empty();
+            var ary = new Array();
+            ['stan', 'kyle', 'kenny', 'cartman', 'wendy', 'ike', 'tweak'].forEach(function(i){
+                ary.push('<li id="' + i + '"></li>');
+            });
+            $('#navlist').empty().append(ary.join('')).fadeIn(500);
+        })
+    });
+</script>

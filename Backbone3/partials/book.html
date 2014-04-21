@@ -1,0 +1,63 @@
+<div id="books" class="row">
+    <form id="addBook" action="#" class="form-horizontal" role="form">
+        <legend>Backbone Model - Add Book</legend>
+        <div class="form-group">
+            <label for="coverImage" class="col-sm-2 control-label">CoverImage: </label>
+            <div class="col-sm-10">
+                <input id="coverImage" type="file" disabled class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">Title: </label>
+            <div class="col-sm-10">
+                <input id="title" type="text" placeholder="title" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="author" class="col-sm-2 control-label">Author: </label>
+            <div class="col-sm-10">
+                <input id="author" type="text" placeholder="author" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="releaseDate" class="col-sm-2 control-label">Release date: </label>
+            <div class="col-sm-10">
+                <input id="releaseDate" type="text" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="keywords" class="col-sm-2 control-label">Keywords: </label>
+            <div class="col-sm-10">
+                <input id="keywords" type="text" placeholder="keyword1 keyword2 ..." class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <button id="add" type="button"  class="btn btn-default btn-lg"><span class="glyphicon glyphicon-star"></span>Add</button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+    ;(function() {
+        Date.prototype.yyyymmdd = function() {
+            var yyyy = this.getFullYear().toString();
+            var mm = (this.getMonth()+1).toString(); // getMonth() is zero-based
+            var dd  = this.getDate().toString();
+            return yyyy + '-' + (mm[1]?mm:"0"+mm[0]) + '-' + (dd[1]?dd:"0"+dd[0]); // padding
+        };
+        document.getElementById('releaseDate').value = (new Date()).yyyymmdd();
+    })();
+</script>
+
+<script id="bookTemplate" type="text/template">
+    <div class="well well-lg">
+            <img src="<%= coverImage %>" class="img-rounded img-thumbnail" />
+            <ul>
+                <li><strong>Title</strong>: <%= title %></li>
+                <li><strong>Author</strong>: <%= author %></li>
+                <li><strong>Release At</strong>: <%= isNaN(releaseDate) ? releaseDate : $.format.date(new Date(Number(releaseDate)), 'MMMM yyyy') %></li>
+                <li><strong>Keywords</strong>: <% _.each( keywords, function( keyobj ) {%> <%= keyobj.keyword %><% } ); %></li>
+            </ul>
+            <button type="button" class="delete btn btn-default btn-lg"><span class="glyphicon glyphicon-star"></span>Delete</button>
+    </div>
+
+</script>

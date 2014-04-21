@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" name="Default" comment="" />
+    <ignored path="myapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397955898220" ignored="false" />
+    <file path="/todo-view.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397957741903" ignored="false" />
+    <file path="/index.html" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397978171327" ignored="false" />
+    <file path="/app.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398016864602" ignored="false" />
+    <file path="/todo.css" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397969220853" ignored="false" />
+    <file path="/book.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397964468646" ignored="false" />
+    <file path="/a.dummy" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398016694896" ignored="false" />
+    <file path="/books.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397971593184" ignored="false" />
+    <file path="/README.md" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397969140487" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398015452147" ignored="false" />
+    <file path="/book_view.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397971979581" ignored="false" />
+    <file path="/books_collection.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397968959447" ignored="false" />
+    <file path="/book_model.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397968709624" ignored="false" />
+    <file path="/book.html" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397974245456" ignored="false" />
+    <file path="/book.css" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397974379959" ignored="false" />
+    <file path="/main.css" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397977565897" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1397978350910" ignored="false" />
+    <file path="$PROJECT_DIR$/../../angular_emails/README.md" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398016019295" ignored="false" />
+    <file path="$PROJECT_DIR$/../../angular_emails/app/views/index.html" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398016000270" ignored="false" />
+    <file path="/emails.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398019397782" ignored="false" />
+    <file path="/init_scac.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398019638238" ignored="false" />
+    <file path="/list.html" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398020380575" ignored="false" />
+    <file path="/detail.html" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398020700876" ignored="false" />
+    <file path="/email_model.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398020966380" ignored="false" />
+    <file path="/emails_collection.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398021088471" ignored="false" />
+    <file path="/router.js" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398021187044" ignored="false" />
+    <file path="/.gitignore" changelist="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" time="1398065146409" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myapp" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.3401404">
+      <split-first>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/Backbone3/js/app.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="42" column="25" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="emails.js" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/routes/emails.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="10" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.045238096">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/routes/index.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="13" column="44" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="8" column="48" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/README.md">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="30" column="20" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="emails.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/routes/emails.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="178" column="2" selection-start="4606" selection-end="4606" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="init_scac.js" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/bin/init_scac.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="59" column="34" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.045783132">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="emails_collection.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/collections/emails_collection.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="57" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/routers/router.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="90" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="email_view.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/views/email_view.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="3" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="27" selection-start="52" selection-end="52" vertical-scroll-proportion="0.042458102">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="todo-view.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/views/todo-view.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="0" selection-start="43" selection-end="98" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="todos.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/collections/todos.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="37" column="23" selection-start="1361" selection-end="1365" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="email_model.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Backbone3/js/models/email_model.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css-sprites/main.css" />
+        <option value="$PROJECT_DIR$/Backbone3/css-sprites/main.css" />
+        <option value="$PROJECT_DIR$/Backbone3/css-sprites/index.html" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/books.js" />
+        <option value="$PROJECT_DIR$/routes/emails.js" />
+        <option value="$PROJECT_DIR$/bin/init_scac.js" />
+        <option value="$PROJECT_DIR$/Backbone3/index.html" />
+        <option value="$PROJECT_DIR$/Backbone3/js/app.js" />
+        <option value="$PROJECT_DIR$/Backbone3/emails/list.html" />
+        <option value="$PROJECT_DIR$/Backbone3/emails/detail.html" />
+        <option value="$PROJECT_DIR$/Backbone3/js/models/email_model.js" />
+        <option value="$PROJECT_DIR$/Backbone3/js/collections/emails_collection.js" />
+        <option value="$PROJECT_DIR$/Backbone3/js/routers/router.js" />
+        <option value="$PROJECT_DIR$/Backbone3/js/views/email_view.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="134" />
+    <option name="y" value="30" />
+    <option name="width" value="1794" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-tabs-node-mongoose" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-tabs-node-mongoose" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone-tabs-node-mongoose" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backbone3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-sprites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../angular_emails" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\William\WebstormProjects\Tests\myapp" />
+      <recent name="C:\Users\William\WebstormProjects\Tests\myapp\Backbone3\partials" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c05e8ed-aecf-42ee-9c8f-fe9554c4a656" name="Default" comment="" />
+      <created>1397955780004</created>
+      <updated>1397955780004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="134" y="30" width="1794" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11566952" sideWeight="0.5624321" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43756786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Backbone3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="71" selection-start="136" selection-end="136" vertical-scroll-proportion="-2.7142856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/emails/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="96" selection-start="3207" selection-end="3207" vertical-scroll-proportion="-7.8867927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/emails/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="670" selection-end="670" vertical-scroll-proportion="-9.5" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/models/book_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/models/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="71" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/init_scac.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="34" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.045783132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/emails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.045238096">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/css-sprites/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="57" selection-start="1658" selection-end="1658" vertical-scroll-proportion="-16.821428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/collections/books_collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/models/email_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/collections/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="23" selection-start="1361" selection-end="1365" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/collections/emails_collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/routers/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="90" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/views/todo-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="43" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backbone3/js/views/email_view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="27" selection-start="52" selection-end="52" vertical-scroll-proportion="0.042458102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
