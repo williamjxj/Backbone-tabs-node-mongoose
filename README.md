@@ -4,9 +4,9 @@ Backbone.js, a multi-tabs page, node.js, mongoose, expressjs framework.
 
 Some helpful tips:
 
-- $ express -e Backbone-tabs-node-mongoose
+* $ express -e Backbone-tabs-node-mongoose
 
-- cd Backbone-tabs-node-mongoose && npm install
+* cd Backbone-tabs-node-mongoose && npm install
 
 - mkdir -p Backbone3
 
